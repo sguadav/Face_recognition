@@ -8,6 +8,7 @@ Coding Requirements
 -
 - Python 3.8 64-bit
 - Visual Code C++ Interpreter
+
 Libraries:
 - cmake
 - dlib
