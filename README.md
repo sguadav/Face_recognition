@@ -1,4 +1,4 @@
-# Face Recognition and Attendance Tacker 
+# Automatic Attendance Tracking System with OpenCV
 - Uses OpenCV to detect faces location on a webcam consistently
 - Compares a folder of JPG pictures to the Web Cam connected to the computer using face location and encoding
 - Analyzes whether the person in the Web Cam is in the folder of images
