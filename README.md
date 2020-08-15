@@ -21,5 +21,5 @@ Resources
 -
 - OpenCV Full Tutorial: https://www.youtube.com/watch?v=WQeoO7MI0Bs&t=460s
 - Project Tutorial: https://www.youtube.com/watch?v=sz25xxF_AVE
-- All the images are gathered from Google Images
+- All the images are gathered from Google Images.
 
